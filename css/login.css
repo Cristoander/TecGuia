@@ -4,9 +4,23 @@
     border-left: 1px solid rgb(0, 0, 0);
 
 }
-.bordateste{
+.bordaLogin{
     border: 1px solid red;
+    border-radius: 20px;
     margin: auto;
     width: 500px; 
     height: 600px;
+    margin-top: 20px;
+}
+.imgBorda{
+    
+}
+.imagemLogin{
+    height: 200px;
+    margin: auto;
+}
+.botoesLogin{
+    width: 400px; 
+    margin: auto;
+    margin-top: 20px;
 }
