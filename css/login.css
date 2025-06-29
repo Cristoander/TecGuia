@@ -1,0 +1,12 @@
+
+.barreiraDoLado{
+
+    border-left: 1px solid rgb(0, 0, 0);
+
+}
+.bordateste{
+    border: 1px solid red;
+    margin: auto;
+    width: 500px; 
+    height: 600px;
+}
