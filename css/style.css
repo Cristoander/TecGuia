@@ -3,4 +3,14 @@
     height: 50px; /*Tamanho img logo */
 
 }
+.bordateste1{
+    border: 1px solid red;
+}
 
+.bordateste2{
+    border: 1px solid green;
+}
+
+.bordateste3{
+    border: 1px solid  blue;
+}

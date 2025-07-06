@@ -1,30 +1,34 @@
 .bordaLogin {
-    
     border-radius: 20px;
-    margin: auto;
-    width: 500px; 
-    height: 600px;
-    margin-top: 20px;
-    display: flex; /* Adicione isso */
-    flex-direction: column; /* Adicione isso */
-    align-items: center; /* Isso centraliza horizontalmente */
+    margin: 20px auto;
+    max-width: 500px; 
+    width: 90%; 
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #fff; 
 }
 
+
+.botoesLogin {
+    width: 100%; 
+    max-width: 400px;
+    margin: 20px 0;
+}
+
+/* Ajuste para a imagem */
 .imgBorda {
     display: flex;
-    justify-content: center; /* Centraliza horizontalmente */
-    align-items: center; /* Centraliza verticalmente */
-    height: 200px; /* Defina uma altura adequada */
-    width: 100%; /* Ocupa toda a largura do container */
-    padding: 20px; /* Espaçamento opcional */
+    justify-content: center;
+    align-items: center;
+    height: auto; 
+    padding: 20px;
+    width: 100%;
 }
 
 .imagemLogin {
-    height: 150px; /* Ajuste conforme necessário */
-    width: auto; /* Mantém a proporção */
-}
-
-.botoesLogin {
-    width: 400px; 
-    margin: 20px auto; /* Simplificado */
+    max-height: 150px;
+    width: auto;
+    max-width: 100%;
 }
