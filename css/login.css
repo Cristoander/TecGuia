@@ -1,26 +1,30 @@
-
-.barreiraDoLado{
-
-    border-left: 1px solid rgb(0, 0, 0);
-
-}
-.bordaLogin{
+.bordaLogin {
     border: 1px solid red;
     border-radius: 20px;
     margin: auto;
     width: 500px; 
     height: 600px;
     margin-top: 20px;
+    display: flex; /* Adicione isso */
+    flex-direction: column; /* Adicione isso */
+    align-items: center; /* Isso centraliza horizontalmente */
 }
-.imgBorda{
-    
+
+.imgBorda {
+    display: flex;
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center; /* Centraliza verticalmente */
+    height: 200px; /* Defina uma altura adequada */
+    width: 100%; /* Ocupa toda a largura do container */
+    padding: 20px; /* Espaçamento opcional */
 }
-.imagemLogin{
-    height: 200px;
-    margin: auto;
+
+.imagemLogin {
+    height: 150px; /* Ajuste conforme necessário */
+    width: auto; /* Mantém a proporção */
 }
-.botoesLogin{
+
+.botoesLogin {
     width: 400px; 
-    margin: auto;
-    margin-top: 20px;
+    margin: 20px auto; /* Simplificado */
 }
