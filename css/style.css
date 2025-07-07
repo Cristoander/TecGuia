@@ -1,16 +1,18 @@
-.imagem-logo{
+.imagem-logo {
 
-    height: 50px; /*Tamanho img logo */
+    height: 50px;
+    /*Tamanho img logo */
 
 }
-.bordateste1{
+
+.bordateste1 {
     border: 1px solid red;
 }
 
-.bordateste2{
+.bordateste2 {
     border: 1px solid green;
 }
 
-.bordateste3{
-    border: 1px solid  blue;
+.bordateste3 {
+    border: 1px solid blue;
 }

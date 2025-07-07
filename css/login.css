@@ -1,32 +1,35 @@
 .bordaLogin {
     border-radius: 20px;
     margin: 20px auto;
-    max-width: 500px; 
-    width: 90%; 
+    max-width: 500px;
+    width: 90%;
     padding: 20px;
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: #ffffff; 
+    background-color: #ffffff;
 }
 
 
 .botoesLogin {
-    width: 100%; 
+    width: 100%;
     max-width: 400px;
     margin: 20px 0;
 }
-.botoesLogin2{ /*Botões de login e registro */
+
+/*Botões de login e registro */
+.botoesLogin2 {
     max-width: 400px;
     margin: 10px 0;
 
 }
+
 /* Ajuste para a imagem */
 .imgBorda {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: auto; 
+    height: auto;
     padding: 20px;
     width: 100%;
 }
