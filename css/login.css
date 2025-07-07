@@ -7,7 +7,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: #fff; 
+    background-color: #ffffff; 
 }
 
 
@@ -16,7 +16,11 @@
     max-width: 400px;
     margin: 20px 0;
 }
+.botoesLogin2{ /*Botões de login e registro */
+    max-width: 400px;
+    margin: 10px 0;
 
+}
 /* Ajuste para a imagem */
 .imgBorda {
     display: flex;
